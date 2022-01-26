@@ -1,4 +1,6 @@
 # ChefPolicyExample
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9eb819f8-c767-41bc-9095-ea01db5c9479.svg?orgId=387173487776)](https://app.soluble.cloud/repos/details/github.com/lhasadreams/chefpolicyexample?orgId=387173487776)  
 Uses Audit and included Base policy files to configure the Chef-Client and run the Audit cookbook
 
 (1) Create the Base and Audit policy lock files
